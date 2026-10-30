@@ -18,8 +18,8 @@
 
 Nearly five years of building the quiet machinery behind healthcare, payments and archival platforms. I like systems that stay fast under load, stay safe under pressure, and stay readable for the next developer.
 
-- 🏥 **Right now:** Full Stack Engineer at Ndel Technologies, building billing, insurance claims and payments for [Bawahealth](https://www.bawahealth.com/)
-- 🗄️ **Also:** Senior Associate Software Engineer at AmaliTech, working on [ACTAPro](https://www.startext.de/produkte/actapro), archive management software for German institutions
+- 🏥 **Right now:** Senior Associate Software Engineer at [AmaliTech](https://www.amalitech.com/), working on archive management software for German institutions
+- 🗄️ **Also:** Full Stack Engineer at Ndel Technologies, building billing, insurance claims and payments for [Bawahealth](https://www.bawahealth.com/)
 - 👥 **Led:** a team of 8 developers on backend delivery
 - 🎓 **Studying:** MSc in Computer Science, University of Ghana
 - ☁️ **Certified:** AWS Solutions Architect – Associate
@@ -28,10 +28,10 @@ Nearly five years of building the quiet machinery behind healthcare, payments an
 
 ```ts
 const george = {
-  languages: ["TypeScript", "Java"],
-  frameworks: ["Fastify", "Express", "Spring Boot"],
-  databases: ["PostgreSQL", "MongoDB", "Redis", "DynamoDB"],
-  messaging: ["Kafka", "BullMQ", "WebSockets"],
+  languages: ["TypeScript", "Java", "Python"],
+  frameworks: ["Fastify", "Express", "Spring Boot", "Fast Api"],
+  databases: ["PostgreSQL", "MongoDB", "Redis", "DynamoDB", "Oracle"],
+  messaging: ["Kafka", "BullMQ", "WebSockets", "RabbitMQ"],
   cloud: "AWS",
   methodology: "Scrum",
   currentlyBuilding: "things that don't fall over at 3 a.m.",
@@ -43,7 +43,6 @@ const george = {
 | Project | What I did |
 | --- | --- |
 | [**Bawahealth**](https://www.bawahealth.com/) | Insurance and in-person billing, hardened auth (refresh tokens, 2FA), family accounts, RBAC and clinical alerts |
-| [**ACTAPro**](https://www.startext.de/produkte/actapro) | Fixed an XSS vulnerability, added PDF generation for archival reports and certificates, improved usability |
 | **Amali AI** | AI platform that analyses repositories, suggests optimizations and generates docs from source code |
 | [**Dodokpo**](https://www.dodokpo.com/) | Backend for concurrent exam sessions, a real-time Kafka pipeline and automated grading |
 
